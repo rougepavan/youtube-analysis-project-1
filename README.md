@@ -1,7 +1,5 @@
 <div align="center">
 
-[![youtube-analysis-project](https://socialify.git.ci/kangchainx/youtube-analysis-project/image?custom_language=React&description=1&font=Inter&language=1&name=1&owner=1&theme=Light)](https://github.com/kangchainx/youtube-analysis-project)
-
 <!-- Badges -->
 <p>
   <a href="./LICENSE">
@@ -20,7 +18,7 @@
 
 <!-- Language Switcher -->
 <p>
-  <strong>English</strong> | <a href="./README_zh.md">中文</a>
+  <strong>English</strong> | <a href="./README_zh.md">Change Language</a>
 </p>
 
 </div>
@@ -148,6 +146,6 @@ MIT License - see [LICENSE](./LICENSE) for details. Free for commercial use, att
 
 <div align="center">
 
-**Made with ❤️ by [kangchainx](https://github.com/kangchainx)**
+**Made with ❤️ by [Pavan Kumar ](https://github.com/rougepavan)**
 
 </div>
